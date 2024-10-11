@@ -8,7 +8,7 @@
 //Autor Rev2: Fábio Henrique Cabrini
 //Rev3: 1-11-2023 Refinamento do código e ajustes para o funcionamento no FIWARE Descomplicado
 //Autor Rev3: Fábio Henrique Cabrini
-//Rev4: 05-08-2024 Modificando o código para mostrar a leitura média do sensor LDR
+//Rev4: 05-08-2024 Modificações para a adição do sensor DHT
 // Autor Rev4: João Victor Soave
 #include <WiFi.h>
 #include <PubSubClient.h>
