@@ -89,7 +89,7 @@ The project was developed using the Wokwi platform, which simulates the operatio
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-repo-link.git
+   https://github.com/Cps-Tech-Sphere/CP5-EdgeComputing
    ```
 2. Set up the FIWARE environment following the instructions in the Cabrini repository.
 3. Configure the code with the correct Wi-Fi and MQTT credentials.
