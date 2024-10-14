@@ -18,11 +18,11 @@ By following the [FIWARE simplified setup guide](https://github.com/fabiocabrini
 
 ### Simulated Prototype Access
 
-[![Wokwi Project](img/wokwi.png)](https://wokwi.com/projects/https://wokwi.com/projects/408016150371922945)
+[![Wokwi Project](img/wokwi.png)](https://wokwi.com/projects/408016150371922945)
 
 ### Project Demo Video
 
-[![YouTube Video](img/youtube.png)](https://youtube.com/your-video-link)
+[![YouTube Video](img/youtube.png)](https://youtu.be/w6nrtIOVMvc)
 
 ## Required Resources
 
